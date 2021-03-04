@@ -1,0 +1,7 @@
+{
+  "port": 5000,
+  "mongoUri":"mongodb+srv://apollon:12345qwe@cluster0.wgtaq.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "ludo pms",
+  "baseUrl": "http://localhost:5000"
+
+}
